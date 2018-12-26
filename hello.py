@@ -1,2 +1,11 @@
 i = 10;
 print(10);
+words = 'words'*3;
+print(words);
+print(words[0]);
+print(words[:5]);
+print(words[5:]);
+words='friends';
+find_the_evil_in_your_friends = words[0]+words[2:4]+words[-3:-1];
+print(find_the_evil_in_your_friends);
+print('{0}爱{1}'.format('🐭','🍉'));
