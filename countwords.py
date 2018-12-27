@@ -11,4 +11,4 @@ with open(path, 'r') as text:
     print(words)
     #按照value排序，并且返回key的列表
     for word in sorted(counts_dict,key=lambda x:counts_dict[x],reverse=True):
-        print(f'这个{word}词出现了{words.count(word)}')
+        print(f'这个【{word}】词出现了【{words.count(word)}】次')
