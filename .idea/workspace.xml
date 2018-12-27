@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca3bf0c-98e3-49ef-b5c4-b171caf102f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Walden.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Walden.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countwords.py" beforeDir="false" afterPath="$PROJECT_DIR$/countwords.py" afterDir="false" />
-    </list>
+    <list default="true" id="6ca3bf0c-98e3-49ef-b5c4-b171caf102f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
